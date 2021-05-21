@@ -71,6 +71,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    image: images/Website30.jpg
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
